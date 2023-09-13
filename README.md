@@ -1,1 +1,1 @@
-# Projects I made usings UIKit and Swift
+# Projects I made using UIKit and Swift
