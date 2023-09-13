@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF036D18-D089-4277-96DA-F8C286219E4E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D932F86-B3F1-4D44-A54A-4F9D62B3F51A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondAssignment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "myCellDelegate"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4304FEFA-4D19-407F-975C-3F5659A1D010"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondAssignment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "cityButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondAssignment/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "cityButtonTapped(in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - e29b99890877ce2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.cityButtonOut.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - e7765721ba411e3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.cityButtonOut.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - a45cd7512266a29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.cityButtonOut.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - 261a6507050fc642"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.cityButtonOut.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - 95b4997b5981c317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SecondAssignment.ViewController"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - 1817304ba639a3ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SecondAssignment.ViewController&gt;"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "AC2D72B6-4720-4749-BD9A-37FAC977CA61 - a672e375cd98f910"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SecondAssignment.ViewController.cityButtonTapped(in: SecondAssignment.myCell) -&gt; ()"
+                  moduleName = "SecondAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bahadir/Desktop/bahadir.sensoz/SecondAssignment/SecondAssignment/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
